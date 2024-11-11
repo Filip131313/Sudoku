@@ -1,0 +1,7 @@
+C:\Users\HP-15\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\HP-15\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\HP-15\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\HP-15\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\HP-15\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\HP-15\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\HP-15\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
